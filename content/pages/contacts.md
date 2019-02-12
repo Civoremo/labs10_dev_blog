@@ -1,7 +1,7 @@
 ---
 template: page
 title: Contact me If you Dare
-slug: asd
+slug: /contact
 draft: false
 ---
 
