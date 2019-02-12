@@ -11,6 +11,7 @@ module.exports = {
     disqusShortname: "",
     postsPerPage: 4,
     googleAnalyticsId: "",
+    plugins: [`gatsby-plugin-netlify-cms`],
     menu: [
         {
             label: "Articles",
