@@ -1,7 +1,7 @@
 ---
 template: page
 title: Testing
-slug: /testing
+slug: pages/testing
 draft: false
 ---
 some text will go here
