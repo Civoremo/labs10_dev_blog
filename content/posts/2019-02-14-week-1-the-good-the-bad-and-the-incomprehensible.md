@@ -50,4 +50,15 @@ And our backend is deployed on **Heroku at **[**https://team-home-2-graphql-mong
 
 - - -
 
-a
+## Various Links
+
+* <https://trello.com/c/iusTKLH9/25-deploy-backend-to-heroku>
+* <https://trello.com/c/FGK3PmOM/16-learn-mongodb-nedim>
+* <https://trello.com/c/4CevxA5E/33-enter-first-entry-for-blog>
+* <https://trello.com/c/fbq8YrVb/35-deploy-and-create-content-for-blog-site>
+* <https://github.com/Lambda-School-Labs/labs-team-home/pull/240>
+* <https://github.com/Lambda-School-Labs/labs-team-home/pull/242>
+
+- - -
+
+It has only been a week and while it is what most of us had signed up for when we chose this project, it has been proven more frustrating than anticipated. The team is still excited and ready to tackle this challenge and I can't wait to see what end up creating.
