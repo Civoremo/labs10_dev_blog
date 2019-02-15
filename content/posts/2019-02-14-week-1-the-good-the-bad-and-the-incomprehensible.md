@@ -61,4 +61,4 @@ And our backend is deployed on **Heroku at **[**https://team-home-2-graphql-mong
 
 - - -
 
-It has only been a week and while it is what most of us had signed up for when we chose this project, it has proven more frustrating than anticipated. The team is still excited and ready to tackle this challenge and I can't wait to see what end up creating.
+It has only been a week and while it is what most of us had signed up for when we chose this project, it has proven more frustrating than anticipated. The team is still excited and ready to tackle this challenge and I can't wait to see what we end up creating.
