@@ -23,6 +23,10 @@ How could the local work environments work without errors, connect to the actual
 
 After many hours and several people coming into our team to help us resolve the issue without any success in narrowing down the error. Kai, a passionate team member of mine came across a environment variable that finally would lead us to resolve the deployment issue.
 
----
+- - -
 
-a
+Once the deployment issue was fixed, things started to really happen for us. We had already been building our back end models, schemas, and resolvers but were always distracted by the deployment situation. With this resolved we stepped into high gear and started to produce code that would allow the front end and iOS team to make amazing progress. We went from having small visible changes on our deployments to drastic additions. 
+
+![project visual additions](/media/frontendchanges.png "ui and ux features")
+
+as
