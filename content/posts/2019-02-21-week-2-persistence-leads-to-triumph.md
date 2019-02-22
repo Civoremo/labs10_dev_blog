@@ -29,4 +29,15 @@ Once the deployment issue was fixed, things started to really happen for us. We 
 
 ![project visual additions](/media/frontendchanges.png "ui and ux features")
 
-as
+Included is a new tab that contains our new feature. We can already add folders, documents, and drag n drop those documents into folders.
+
+- - -
+
+On the back end part I managed to get our models, schemas, and resolvers up and running. Having spend numerous hours debugging our deployment I was glad to finally be able to work on code that would contribute to the team. Our goal was to create a Folder, Document, and Document_Comment model along with the various other things needed to allow front end functionality.
+
+![mongoDB models](/media/models.png "models")
+
+I'm happy to say that after studying previously created models/schemas/resolvers I was able to create our own files necessary for the work to continue.
+
+---
+0 T
