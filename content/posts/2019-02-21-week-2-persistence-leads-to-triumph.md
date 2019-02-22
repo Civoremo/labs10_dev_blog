@@ -55,3 +55,9 @@ Pull requests have started to come more frequently and more meaningful, from the
 * https://github.com/Lambda-School-Labs/labs-team-home/pull/313
 * <https://trello.com/c/wwnWUEzk/43-able-to-access-new-models-via-playground>
 * https://trello.com/c/T9fN31zW/57-attempt-drag-and-drop
+
+- - -
+
+After some technical difficulties at the start of the week I am happy to report that the project is progressing very well. Through our difficulties I believe that the team has grown closer together. We have become comfortable to ask for help of each other, share ideas, discuss the direction of the project and everyone's opinion is valid. I think it helps that we spend all day working together within zoom and no one gets tired of each other; it speaks highly of the team chemistry this group has and I can not be prouder of them and the work that they have put into the project.
+
+Until next week!
