@@ -7,7 +7,7 @@ date: 2019-02-22T00:15:56.749Z
 description: >-
   The importance of team dynamics and overcoming difficult tasks. Building out
   endpoints; fixing deployment issue; and creating front end components.
-category: 'dev_blog, weel_2'
+category: 'dev_blog, week_2'
 tags:
   - dev_blog
   - week2
