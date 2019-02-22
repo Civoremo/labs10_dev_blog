@@ -1,7 +1,7 @@
 ---
 template: post
 title: 'Week 2: Persistence Leads To Triumph'
-slug: /posts/week-2-retrospective
+slug: /posts/week2
 draft: false
 date: 2019-02-22T00:15:56.749Z
 description: >-
