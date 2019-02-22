@@ -8,6 +8,9 @@ description: >-
   The importance of team dynamics and overcoming difficult tasks. Building out
   endpoints; fixing deployment issue; and creating front end components.
 category: 'dev_blog, weel_2'
+tags:
+  - dev_blog
+  - week2
 ---
 ## Labs 10 Team Home 2 Week Two Experience
 
