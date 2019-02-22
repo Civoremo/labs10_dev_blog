@@ -39,5 +39,19 @@ On the back end part I managed to get our models, schemas, and resolvers up and 
 
 I'm happy to say that after studying previously created models/schemas/resolvers I was able to create our own files necessary for the work to continue.
 
----
-0 T
+- - -
+
+Pull requests have started to come more frequently and more meaningful, from the entire team. I would not blame our PM if he got annoyed by the amount of merge requests that we ask of him, fortunately he is very encouraging.
+
+![pull requests week 2](/media/week2pullrequest.png "merged pull request")
+
+- - -
+
+## Various Links
+
+* <https://github.com/Lambda-School-Labs/labs-team-home/pull/285>
+* <https://github.com/Lambda-School-Labs/labs-team-home/pull/291>
+* https://github.com/Lambda-School-Labs/labs-team-home/pull/308
+* https://github.com/Lambda-School-Labs/labs-team-home/pull/313
+* <https://trello.com/c/wwnWUEzk/43-able-to-access-new-models-via-playground>
+* https://trello.com/c/T9fN31zW/57-attempt-drag-and-drop
