@@ -34,4 +34,33 @@ Not everything went smoothly or is finished bug free and that's no more evident 
 
 - - -
 
-We have basically scrapped that implementation of DnD and started work on React DnD. After a few hours of work, it is showing progress and we have eliminated the errors that were causing us headaches all week long.
+We have basically scrapped that implementation of DnD and started work on React DnD. After a few hours of work, it is showing progress and we have eliminated the errors that were causing us headaches all week long. Implementation seems simple enough; it does require some refactoring of our code to allow the feature to integrate. Below is the drag component of documents.
+
+![Drag Source](/media/dropsource.png "Drag Source")
+
+While progress has been made in replacing our initial DnD, this early implementation of React DnD still has some bugs that need to be ironed out. But is nice to not see the errors that were present before are gone.
+
+- - -
+
+Unlike the rest of my team, my Pull Requests have been sparse this week. Various bug fixes and smaller features were coded in between the time spend at trying to mold the initial DnD implementation.
+
+![pull request](/media/prmerges.png "merges")
+
+- - -
+
+## Various Links
+
+* <https://github.com/Lambda-School-Labs/labs-team-home/pull/331>
+* <https://github.com/Lambda-School-Labs/labs-team-home/pull/342>
+* <https://github.com/Lambda-School-Labs/labs-team-home/pull/345>
+* <https://github.com/Lambda-School-Labs/labs-team-home/pull/351>
+* <https://trello.com/c/yPK2kbgm/61-folder-should-load-documents-that-have-a-matching-folder-id>
+* <https://trello.com/c/6LEwNEWa/58-sendgrid-needs-to-be-implemented-on-the-backend>
+* <https://trello.com/c/T9fN31zW/57-attempt-drag-and-drop>
+* <https://trello.com/c/yFWUKZQA/64-bug-error-in-stripe-payment-processing-graphql-error-location-is-object-object-probably-just-referencing-the-wrong-path>
+
+- - -
+
+Another week, another bug that needs fixing. I feel like I keep repeating myself here, but I can not stress enough how good the members of my team are and the amount of time and effort they dedicate to this project. Everyone still seems to get along, we still spend an ungodly amount of time together on zoom, working on features, sharing memes and just having a good time. While for me personally the beginning of the week has been a disappointed in terms of my contribution to the code base;  things seem to be turning around and it's looking up. Perhaps the best part is that I finally got my own emoji in the slack channels; big thanks to my team members.
+
+Keep coding; see you next week.
