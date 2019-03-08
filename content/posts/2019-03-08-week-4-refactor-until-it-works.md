@@ -34,5 +34,15 @@ Previous implemented activity timeline can best be described as a loose interpre
 
 The new implementation required extensive work on the frontend and the backend to do what it was intended to do and the results are amazing. It now keeps track of everything; activities remain on timeline even after something is deleted.
 
----
+- - -
 
+I spent first part of the week reworking the Drag and Drop and we finally have a working version that does not crash or throw weird errors. There were initial blocks as I attempted to understand how to pass certain variables from one component to another in our implementation of code. Some of the documentation was a bit vague and not many examples that were applicable to the way our project was configured but it was a great moment when it started to make sense.
+React DnD looks to be an easy to implement library with some nuances. First thing necessary was to set up the context on the app; this was done on the root file to encompass the entire project and would allow to have DnD on any component.
+
+![dragdropcontext](/media/dragdropcontext.png "dragdropcontext")
+
+Next we needed to refactor some of our already created components to set our drag sources and our drop targets. Each of our documents would be a drag source.
+
+![dragSource](/media/dragsource.png "dragSource")
+
+Our drop targets would be all the folders that were created along with the main staging area that contained both the folders and the documents that were initially created. That part was giving me the hardest time; we had to components  that were not necessarily related to each that needed to share information between each other.
