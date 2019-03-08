@@ -45,7 +45,7 @@ Next we needed to refactor some of our already created components to set our dra
 
 ![dragSource](/media/dragsource.png "dragSource")
 
-Our drop targets would be all the folders that were created along with the main staging area that contained both the folders and the documents that were initially created. That part was giving me the hardest time; we had to components  that were not necessarily related to each that needed to share information between each other.
+Our drop targets would be all the folders that were created along with the main staging area that contained both the folders and the documents that were initially created. That part was giving me the hardest time; we had components  that were not necessarily related to each that needed to share information between each other.
 
 ![dropTarget](/media/droptarget.png "dropTarget")
 
@@ -53,7 +53,7 @@ The marked code in the red box eventually was the solution that I scratched my h
 
 - - -
 
-After the DnD was implemented, I could finally help the team with the various other things that still needed to be refactored and fixed. After many discussions with Bondor we agreed that the previous implementation of GraphQL mutations was poorly implemented and would cause issues at every turn without any reasonable reason as to why. We soon started to refactor many of those mutations to a proper GraphQL mutation instead of the Frankenstein code that was there before and app started a lot more stable with less errors. Doing all of those refactors has deprecated many of the "helper files" previously used. It becomes greatly satisfying to see 30-50 lines of code shrink down to 10-20 and it performs more reliably, looks cleaner, and is easier for other to read and understand.
+After the DnD was implemented, I could finally help the team with the various other things that still needed to be refactored and fixed. After many discussions with Bondor we agreed that the previous implementation of GraphQL mutations was poorly implemented and would cause issues at every turn without any reasonable reason as to why. We soon started to refactor many of those mutations to a proper GraphQL mutation instead of the Frankenstein code that was there before and the app started working a lot more stable with less errors. Doing all of those refactors has deprecated many of the "helper files" previously used. It becomes greatly satisfying to see 30-50 lines of code shrink down to 10-20 and it performed more reliably, looked cleaner, and is easier for others to read and understand.
 
 - - -
 
