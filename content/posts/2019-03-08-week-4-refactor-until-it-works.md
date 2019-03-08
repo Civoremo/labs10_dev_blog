@@ -13,12 +13,23 @@ tags:
   - week_4
 ---
 ## Labs 10 Team Home 2 Week Four Experience
----
+
+- - -
+
 Another week of late nights and another week of progress. To recap the week prior, we attempted to implement Drag and Drop only to realize that the implementation was not going to work for our circumstance. After a couple of days of work, we scrapped the entire first implementation and used the React DnD library for the feature and it ended up working nicely. There are still a few things that we want to look at and improve; such as the load performance but that will wait until next week as we try to sort out the last few nagging bugs we're encountering.
 
 A big shout out to my team once more, they have been crushing it. Everyone is putting in large amounts of time and effort and I could not be more impressed with their work ethic and dedication.
 
----
+- - -
 
-- Eileen has had the hard task of styling components and she has surpassed anything I thought was possible.
-- Bondor, whom I have spent many nights programming with is an exceptional leader and engineer.
+* Eileen has had the hard task of styling components and she has surpassed anything I thought was possible.
+* Bondor, whom I have spent many nights programming with is an exceptional leader and engineer. With his initiative, the team has reworked the previously implemented activity timeline to an actual activity timeline.
+* Kai has been hard at work on tasks that the rest of us would rather not have to do.
+
+![document modal](/media/reworked-docmodal.png "document modal")
+
+
+
+![reworked timeline](/media/reworkedtimeline.png "reworked timeline")
+
+a
