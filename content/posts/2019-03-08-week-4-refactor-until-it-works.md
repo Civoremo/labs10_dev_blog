@@ -45,7 +45,7 @@ Next we needed to refactor some of our already created components to set our dra
 
 ![dragSource](/media/dragsource.png "dragSource")
 
-Our drop targets would be all the folders that were created along with the main staging area that contained both the folders and the documents that were initially created. That part was giving me the hardest time; we had to components  that were not necessarily related to each that needed to share information between each other.
+Our drop targets would be all the folders that were created along with the main staging area that contained both the folders and the documents that were initially created. That part was giving me the hardest time; we had components  that were not necessarily related to each that needed to share information between each other.
 
 ![dropTarget](/media/droptarget.png "dropTarget")
 
