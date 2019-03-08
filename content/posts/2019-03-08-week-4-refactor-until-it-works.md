@@ -76,4 +76,6 @@ PRs have increased this week with many of them coming from implementing React Dn
 
 ---
 
-a
+As week 4 of our project comes to a close; looking back it is impressive how much was accomplished by the team; styling is coming together and looks a lot cleaner and nicer, DnD is implemented, and the activity timeline has been completely reworked. I would recommend each and every member of my team to anyone that needs amazing software engineers; their work ethic, personalities and dedication is an asset to all that work with them. We have one more week to polish the project up and then we can reflect back on the journey.
+
+Until next week. {...Code}
