@@ -28,8 +28,11 @@ A big shout out to my team once more, they have been crushing it. Everyone is pu
 
 ![document modal](/media/reworked-docmodal.png "document modal")
 
-
-
 ![reworked timeline](/media/reworkedtimeline.png "reworked timeline")
 
-a
+Previous implemented activity timeline can best be described as a loose interpretation of a activity timeline. While on the surface it looked and acted like what a activity timeline should do, once you dug deeper into the functionality you soon realize that it does not keep track of any activity in any significant way. The biggest flaw we saw was that once a message was deleted; all activities associated with it was removed as if there never was anything there to begin with. 
+
+The new implementation required extensive work on the frontend and the backend to do what it was intended to do and the results are amazing. It now keeps track of everything; activities remain on timeline even after something is deleted.
+
+---
+
