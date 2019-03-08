@@ -51,9 +51,28 @@ Our drop targets would be all the folders that were created along with the main 
 
 The marked code in the red box eventually was the solution that I scratched my head for hours on. This little bit of code allow the drag source to receive information about the drop target.
 
----
+- - -
 
 After the DnD was implemented, I could finally help the team with the various other things that still needed to be refactored and fixed. After many discussions with Bondor we agreed that the previous implementation of GraphQL mutations was poorly implemented and would cause issues at every turn without any reasonable reason as to why. We soon started to refactor many of those mutations to a proper GraphQL mutation instead of the Frankenstein code that was there before and app started a lot more stable with less errors. Doing all of those refactors has deprecated many of the "helper files" previously used. It becomes greatly satisfying to see 30-50 lines of code shrink down to 10-20 and it performs more reliably, looks cleaner, and is easier for other to read and understand.
+
+- - -
+
+PRs have increased this week with many of them coming from implementing React DnD and refactoring code. 
+
+![week 4 pull requests](/media/week4prs.png "week 4 pull requests")
+
+- - -
+
+## Various Links
+
+* <https://trello.com/c/7DzByF12/92-implement-a-way-for-docs-to-be-moved-from-folder-to-folder-and-from-staging-area-to-folder-without-dnd-for-those-using-a-tablet>
+* <https://trello.com/c/5psrxPCl/99-refactor-queries-and-mutations>
+* <https://trello.com/c/Smcq2Gd1/83-react-dnd>
+* <https://trello.com/c/3Q0fDnZ7/60-mutate-docs-that-are-dragged-and-dropped-into-a-folder-so-that-their-folder-id-updates>
+* <https://github.com/Lambda-School-Labs/labs-team-home/pull/358>
+* <https://github.com/Lambda-School-Labs/labs-team-home/pull/365>
+* <https://github.com/Lambda-School-Labs/labs-team-home/pull/377>
+* <https://github.com/Lambda-School-Labs/labs-team-home/pull/402>
 
 ---
 
