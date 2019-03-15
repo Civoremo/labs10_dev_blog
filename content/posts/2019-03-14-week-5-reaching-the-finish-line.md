@@ -27,4 +27,10 @@ Unfortunately  this forced us to turn off automatic updates to the timeline whic
 
 - - -
 
-As we were finishing up styling and remaining bugs, I turned my attention to the Activity Timeline's sort functionality. As the newly built timeline now included various more info on team activity it became clear that sorting was needed and would greatly improve usability. I set out to make sorting possible and thanks to the teams amazing work building styled components I did not need to focus on the styling and could strictly look at how sorting should/could work.
+As we were finishing up styling and remaining bugs, I turned my attention to the Activity Timeline's sort functionality. As the newly built timeline now included various more info on team activity it became clear that sorting was needed and would greatly improve usability. I set out to make sorting possible and thanks to the teams amazing work building styled components I did not need to focus on the styling and could strictly look at how sorting should/could work. There are three levels of sort functionality that a user can utilize. Objects such as "Folder", "Message", "Document" and others are one of the things a user could sort by. Actions such as "Edited", "Deleted", "Liked" and others is another layer that can be sorted on; and Users being another layer. Combining all those different parameters make up for a very robust and useful sorting functionality of the Activity Timeline.
+
+![showing how sorting looks on the activity timeline](/media/sortingactivities.png "Activity Timeline Sorting")
+
+***
+
+1
